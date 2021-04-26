@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kyoobee-32312": {
+      "hosting": {
+        "kyoobee": [
+          "kyoobee-32312"
+        ]
+      }
+    }
+  }
+}

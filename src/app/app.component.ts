@@ -6,5 +6,24 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'kyoobee';
+
+  colors = [
+    'black',
+    'darkgray',
+    'blue',
+    'lightblue',
+    'green',
+    'lightgreen',
+    'cyan',
+    'lightcyan',
+    'red',
+    'lightred',
+    'magenta',
+    'lightmagenta',
+    'brown',
+    'yellow',
+    'lightgray',
+    'white'
+  ];
+
 }

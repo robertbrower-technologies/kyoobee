@@ -1,0 +1,22 @@
+app-kyoobee {
+  flex-grow: 1;
+}
+
+mat-toolbar {
+  justify-content: center;
+}
+
+mat-toolbar > div {
+  height: 64px;
+  width: 64px;
+  margin-left: 12px;
+  margin-right: 12px;
+  border-radius: 50%;
+  box-shadow: 1px 4px 8px 1px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  -webkit-transition:  -webkit-transform 200ms ease-out;
+  -moz-transition: -moz-transform 200ms ease-out;
+  -o-transition: -o-transform 200ms ease-out;
+  -ms-transition: -ms-transform 200ms ease-out;
+  transition: transform 200ms ease-out;
+}

@@ -1,1 +1,132 @@
-/* You can add global styles to this file, and also import other style files */
+.align-items-center {
+  align-items: center !important;
+}
+
+.border-radius-50pct {
+  border-radius: 50% !important;
+}
+
+.bottom-0px {
+  bottom: 0px !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.display-flex {
+  display: flex !important;
+}
+
+.flex-direction-column {
+  flex-direction: column !important;
+}
+
+.flex-grow-1 {
+  flex-grow: 1 !important;
+}
+
+.font-size-large {
+  font-size: large;
+}
+
+.height-100pct {
+  height: 100% !important;
+}
+
+.height-40px {
+  height: 40px;
+}
+
+.height-48px {
+  height: 48px;
+}
+
+.justify-content-center {
+  justify-content: center !important;
+}
+
+.left-0px {
+  left: 0px !important;
+}
+
+.margin-0 {
+  margin: 0 !important;
+}
+
+.margin-1px {
+  margin: 1px !important;
+}
+
+.margin-10px {
+  margin: 10px !important;
+}
+
+.min-height-0 {
+  min-height: 0 !important;
+}
+
+.min-width-0 {
+  min-width: 0 !important;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.overflow-auto {
+  overflow: auto !important;
+}
+
+.overflow-y-auto {
+  overflow-y: auto !important;
+}
+
+.position-absolute {
+  position: absolute !important;
+}
+
+.position-fixed {
+  position: fixed !important;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
+.right-0px {
+  right: 0px !important;
+}
+
+.top-0px {
+  top: 0px !important;
+}
+
+.text-transform-uppercase {
+  text-transform: uppercase !important;
+}
+
+.user-select-none {
+  user-select: none !important;
+}
+
+.width-100pct {
+  width: 100% !important;
+}
+
+.width-40px {
+  width: 40px;
+}
+
+.width-48px {
+  width: 48px;
+}
+
+canvas {
+  display: block;
+  outline: none;
+  border: none;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
